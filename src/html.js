@@ -2,7 +2,6 @@
 const Html = `<!doctype html>
 <html>
   <head>
-    <link async rel="stylesheet" href="dist/css/ionicons.min.css">
     <style>
 
     .focusarea, .brusharea {
